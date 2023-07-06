@@ -60,7 +60,6 @@ public class AllContacts extends AppCompatActivity {
                         contactlist.add(contact);
                         adapter.notifyDataSetChanged();
 
-
                     }
                 }
             }
